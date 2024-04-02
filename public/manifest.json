@@ -1,0 +1,10 @@
+{
+    "name": "Sibtain",
+    "short_name": "Sibtain",
+    "description": "A full-screen web application by Sibtain",
+    "start_url": "/index.html",
+    "display": "fullscreen",
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF"
+  }
+  
